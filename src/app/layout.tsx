@@ -4,7 +4,7 @@ import { site } from "@/config/site";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: site.name,
+  title: `${site.name} | Sillones, muebles y sommiers`,
   description: site.description,
   robots: { index: false, follow: false },
 };

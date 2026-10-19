@@ -1,170 +1,414 @@
-BRIEF.md — Encargo del sitio
+# BRIEF.md — Sillones Río Tercero
 
-Estado: plantilla sin completar.
-Completá este archivo para cada cliente. Eliminá los ejemplos que no apliquen.
-Los campos [COMPLETAR] nunca deben aparecer como texto del sitio.
-Codex puede completar este brief con lo que el usuario indique en el chat;
-no es necesario llenar todos los campos manualmente antes de empezar.
+Estado: demo comercial.
 
-1. Negocio y público
+Este documento define el negocio, objetivo, contenido, alcance y comportamiento
+de la propuesta. Los datos marcados como pendientes no deben inventarse ni
+presentarse como información confirmada del negocio.
 
-Nombre comercial: [COMPLETAR]
+## 1. Negocio y público
 
-Rubro y oferta principal: [COMPLETAR]
+Nombre comercial: Sillones Río Tercero
 
-Descripción breve confirmada: [COMPLETAR]
+Rubro y oferta principal:
+Venta de sillones, muebles y sommiers directos de fábrica.
 
-Público al que se dirige: [COMPLETAR]
+Descripción breve confirmada:
+Negocio de Río Tercero dedicado a sillones, muebles y sommiers.
+En sus canales públicos aparecen referencias a sillones, sommiers,
+sofá cama, sillones Morris, sillones Chesterfield, sillas y esquineros.
 
-Ubicación o zona de atención, si corresponde: [COMPLETAR]
+Público al que se dirige:
+Personas interesadas en comprar sillones, muebles o sommiers y que
+necesitan conocer visualmente los productos disponibles antes de consultar.
 
-Idioma: español argentino, salvo que el encargo indique otro.
+Ubicación o zona de atención:
+Av. General Savio 2023, Río Tercero, Córdoba, Argentina.
 
-Tono de comunicación: [COMPLETAR]
+El negocio anuncia envíos a Córdoba.
 
-2. Objetivo
+Idioma:
+Español argentino.
 
-Qué debe entender el visitante: [COMPLETAR]
+Tono de comunicación:
+Claro, cercano, comercial y directo.
+Evitar lenguaje corporativo, técnico o excesivamente sofisticado.
 
-Acción principal buscada: [COMPLETAR: consultar, reservar, pedir presupuesto, etc.]
+## 2. Objetivo
 
-CTA principal y destino: [COMPLETAR]
+Qué debe entender el visitante:
+Qué tipo de productos ofrece Sillones Río Tercero, poder recorrerlos
+visualmente por categorías y saber cómo consultar por un modelo.
 
-Acción secundaria, si existe: [COMPLETAR / NO APLICA]
+Acción principal buscada:
+Consultar por un producto.
 
-Cómo se reconocerá que el sitio cumple su objetivo: [COMPLETAR]
+CTA principal:
+“Consultar por WhatsApp”
 
-3. Tipo y alcance de esta entrega
+Destino:
+WhatsApp del negocio una vez confirmado el número y su formato internacional.
 
-Tipo de sitio: [COMPLETAR: institucional, landing, catálogo, etc.]
+Acción secundaria:
+Explorar productos y categorías.
 
-Etapa: [COMPLETAR: demo comercial / sitio final]
+Cómo se reconocerá que el sitio cumple su objetivo:
+El visitante puede entender rápidamente qué vende el negocio, recorrer
+productos sin dificultad y llegar desde un producto concreto a una consulta.
 
-Entrega solicitada ahora: [COMPLETAR]
+## 3. Tipo y alcance de esta entrega
 
-Páginas o rutas necesarias: [COMPLETAR]
+Tipo de sitio:
+Catálogo digital.
 
-Funcionalidades incluidas: [COMPLETAR]
+Etapa:
+Demo comercial.
 
-Fuera de alcance: [COMPLETAR]
+Entrega solicitada ahora:
+Una demostración visual y funcional suficientemente terminada para mostrar
+al prospecto cómo podría funcionar su catálogo web.
 
-No incluir por defecto comercio electrónico, panel, CMS o autenticación.
-No convertir funcionalidades futuras en trabajo de esta entrega.
+La demo debe ser convincente pero acotada. No desarrollar gratuitamente
+funcionalidades correspondientes a un proyecto completo todavía no contratado.
 
-4. Estructura de contenido
+Páginas o rutas necesarias:
+Una única página principal.
 
-Definí únicamente las secciones que necesita este negocio. No hay una cantidad fija.
+No crear páginas adicionales salvo que una necesidad concreta de la
+implementación lo justifique.
 
-Página/sección
+Funcionalidades incluidas:
+- Navegación responsive.
+- Hero.
+- Navegación por categorías.
+- Catálogo inicial de aproximadamente seis productos.
+- Filtro funcional por categorías.
+- Consulta asociada a cada producto.
+- Mensaje de consulta que incluya el nombre del producto.
+- Ficha rápida o modal de producto si mejora la experiencia sin ampliar
+  significativamente el alcance.
+- Información de ubicación y envíos.
+- Contacto.
+- Footer.
 
-Para qué sirve
+Fuera de alcance:
+- Carrito.
+- Checkout.
+- Pagos online.
+- Pedidos automáticos.
+- Usuarios.
+- Inicio de sesión.
+- Favoritos.
+- Panel administrativo.
+- CMS.
+- Backend.
+- Base de datos.
+- Gestión de stock.
+- Gestión de precios.
+- Integraciones comerciales adicionales.
 
-Contenido confirmado
+No convertir posibles funcionalidades futuras en trabajo de esta demo.
 
-Acción del visitante
+## 4. Estructura de contenido
 
-[COMPLETAR]
+### Header
 
-[COMPLETAR]
+Para qué sirve:
+Identificar rápidamente el negocio y permitir navegar por la página.
 
-[COMPLETAR]
+Contenido:
+- Logo de Sillones Río Tercero.
+- Productos.
+- Ubicación.
+- Contacto.
+- CTA de consulta.
 
-[COMPLETAR / NO APLICA]
+Acción:
+Navegar o iniciar una consulta.
 
-5. Productos o servicios
+### Hero
 
-Si corresponde, repetí esta ficha para cada producto o servicio:
+Para qué sirve:
+Comunicar inmediatamente qué ofrece el negocio y mostrar un producto
+como protagonista.
 
-Nombre: [COMPLETAR]
+Contenido:
+- Logo o identificación de marca.
+- Fotografía protagonista.
+- Título comercial breve.
+- Descripción breve.
+- CTA para explorar productos.
 
-Descripción confirmada: [COMPLETAR]
+Copy provisional permitido:
 
-Características o diferencias confirmadas: [COMPLETAR]
+Título:
+“Sillones para disfrutar tu casa”
 
-Precio: [COMPLETAR / NO MOSTRAR]
+Texto:
+“Encontrá sillones, muebles y sommiers para renovar tus espacios.”
 
-Imagen y ruta del recurso: [COMPLETAR]
+Este copy es una propuesta para la demo, no información comercial confirmada.
 
-Acción de consulta y mensaje asociado: [COMPLETAR / NO APLICA]
+Acción:
+“Ver productos”
 
-6. Contacto y enlaces
+### Categorías
 
-WhatsApp con código de país: [COMPLETAR / NO APLICA]
+Para qué sirve:
+Permitir entender y recorrer rápidamente la oferta.
 
-Mensaje inicial de WhatsApp: [COMPLETAR / NO APLICA]
+Categorías principales de la demo:
+- Sillones
+- Muebles
+- Sommiers
 
-Correo público: [COMPLETAR / NO APLICA]
+Estas categorías organizan la demostración y pueden ajustarse posteriormente
+según el catálogo real del negocio.
 
-Teléfono público: [COMPLETAR / NO APLICA]
+Acción:
+Seleccionar una categoría y visualizar sus productos.
 
-Dirección y mapa: [COMPLETAR / NO APLICA]
+### Productos
 
-Horarios confirmados: [COMPLETAR / NO APLICA]
+Para qué sirve:
+Mostrar de forma visual cómo funcionaría el catálogo.
 
-Redes sociales y enlaces reales: [COMPLETAR / NO APLICA]
+Cantidad inicial:
+Aproximadamente seis productos.
 
-Si se solicita un formulario, definir campos, destino, envío real y estados
-de carga, error y éxito. Sin servicio de envío, no mostrar éxito ficticio.
+Cada producto debe mostrar:
+- Fotografía.
+- Nombre.
+- Categoría.
+- Descripción breve neutral.
+- Acción de consulta.
 
-7. Recursos disponibles
+No mostrar:
+- Precio.
+- Cuotas.
+- Descuentos.
+- Medidas.
+- Material.
+- Stock.
+- Garantía.
+- Disponibilidad.
 
-Logo y variantes: [COMPLETAR: rutas]
+salvo que posteriormente sean confirmados.
 
-Fotografías: [COMPLETAR: rutas y qué representan]
+Los nombres utilizados durante la construcción pueden ser provisionales,
+pero deben estar claramente identificados en los datos para reemplazarlos
+antes de presentar la demo.
 
-Textos aprobados: [COMPLETAR]
+Texto neutral permitido:
+“Consultá por este modelo.”
 
-Otros documentos o recursos: [COMPLETAR]
+### Información / ubicación
 
-Material temporal autorizado para la demo: [COMPLETAR / NINGUNO]
+Contenido confirmado:
 
-Créditos o licencias requeridos: [COMPLETAR / PENDIENTE]
+Av. General Savio 2023
+Río Tercero, Córdoba
 
-8. Publicación y mantenimiento
+Envíos:
+El negocio anuncia envíos a Córdoba.
 
-Dominio confirmado: [COMPLETAR / PENDIENTE]
+No inventar horarios ni zonas adicionales de entrega.
 
-Destino de despliegue: [COMPLETAR / PENDIENTE]
+### Contacto
 
-Quién actualizará contenido y con qué frecuencia: [COMPLETAR]
+Acción principal:
+Consulta por WhatsApp.
 
-Integraciones necesarias: [COMPLETAR / NINGUNA]
+No activar un número hasta verificar que pertenece al negocio y confirmar
+su formato internacional.
 
-Analítica solicitada: [COMPLETAR / NO SOLICITADA]
+### Footer
 
-Indexación deseada para esta etapa: [COMPLETAR: pública / demo no indexable]
+Contenido:
+- Identificación del negocio.
+- Ubicación.
+- Navegación esencial.
+- Contacto cuando esté confirmado.
 
-Este brief describe el destino; no autoriza por sí solo a publicar.
+Incluir discretamente:
+“Propuesta de demostración”
 
-9. Criterios de aceptación
+La demo no debe presentarse como el sitio web oficial del negocio.
 
-El visitante entiende la oferta y encuentra la acción principal.
+## 5. Productos
 
-Las páginas y funcionalidades acordadas están implementadas.
+Los productos deben estar centralizados en un archivo de datos y no
+hardcodeados dentro de los componentes.
 
-El diseño funciona en escritorio y móvil.
+Estructura orientativa:
 
-Contactos, enlaces y recursos corresponden al cliente actual.
+- id
+- name
+- category
+- image
+- alt
+- description
+- provisional
 
-No hay datos comerciales inventados ni contenido de clientes anteriores.
+Categorías de datos:
 
-Los pendientes están identificados y las comprobaciones ejecutadas se informan.
+- sillones
+- muebles
+- sommiers
 
-Criterios particulares de este encargo: [COMPLETAR]
+Cantidad inicial:
+Aproximadamente seis productos.
 
-10. Pendientes y decisiones
+Las fotografías definitivas serán seleccionadas posteriormente a partir
+del material del negocio. Para esta demo se usan fotografías temporales
+locales de Unsplash, solo como referencia visual y con una aclaración discreta
+en el catálogo. No se atribuyen al negocio ni a su catálogo real.
 
-Tema
+No utilizar fotografías de otros fabricantes como si fueran productos
+reales de Sillones Río Tercero.
 
-Estado
+Mensaje de consulta previsto:
 
-Información o decisión necesaria
+“Hola, quería consultar por [NOMBRE DEL PRODUCTO].”
 
-[COMPLETAR]
+El mensaje debe codificarse correctamente al generar la URL.
 
-Pendiente / propuesto / confirmado
+## 6. Contacto y enlaces
 
-[COMPLETAR]
+WhatsApp con código de país:
+PENDIENTE DE VERIFICACIÓN.
 
-Las decisiones reversibles pueden resolverse como propuestas documentadas.
-No publicar datos ni activar servicios basándose en suposiciones.
+Número publicado observado:
+3573468650
+
+No utilizarlo todavía como número definitivo de WhatsApp.
+
+Mensaje inicial:
+“Hola, quería consultar por [NOMBRE DEL PRODUCTO].”
+
+Correo público:
+NO CONFIRMADO.
+
+Teléfono público:
+3573468650 — publicado, pendiente de verificar para implementación.
+
+Dirección:
+Av. General Savio 2023, Río Tercero, Córdoba, Argentina.
+
+Mapa:
+NO SOLICITADO PARA ESTA DEMO.
+
+Horarios:
+NO CONFIRMADOS.
+
+Instagram observado:
+@sillonesriotercero02
+
+Cuenta señalada allí como principal:
+@sillonesriotercero
+
+Verificar cualquier enlace externo antes de incorporarlo.
+
+## 7. Recursos disponibles
+
+Logo:
+Archivo suministrado por el usuario.
+
+Utilizar el logo existente.
+No rediseñarlo, reconstruirlo ni modificar sus proporciones.
+
+El logo contiene visualmente:
+- nombre Sillones Río Tercero;
+- tres bloques de color;
+- claim “Tu sillón a tu gusto.”
+
+El claim forma parte del recurso gráfico disponible. No reutilizarlo como
+copy independiente sin confirmación.
+
+Fotografías reales:
+Pendientes de selección. El usuario incorporará posteriormente imágenes del
+negocio. Las fotos actuales son ejemplos locales de Unsplash y no pertenecen
+a Sillones Río Tercero. Sus rutas y fuentes están documentadas en
+`public/README.md`; reemplazarlas por imágenes autorizadas antes de presentar
+un catálogo como real.
+
+## 8. Publicación y mantenimiento
+
+Dominio confirmado:
+PENDIENTE.
+
+Destino de despliegue:
+Demo temporal / pendiente de definición.
+
+Actualización futura de contenido:
+PENDIENTE; fuera del alcance de esta demo.
+
+Integraciones:
+WhatsApp, una vez confirmado.
+
+Analítica:
+NO SOLICITADA.
+
+Indexación:
+Demo no indexable.
+
+Configurar noindex y nofollow.
+
+Esta demo no está autorizada como publicación oficial del negocio.
+
+## 9. Criterios de aceptación
+
+La demo se considera lista para mostrar cuando:
+
+- Se entiende en la primera pantalla que el negocio vende sillones,
+  muebles y sommiers.
+- El producto tiene protagonismo visual.
+- Existe una ruta clara desde exploración hasta consulta.
+- Las categorías funcionan.
+- Los productos están centralizados en datos.
+- Las fotografías pueden reemplazarse fácilmente.
+- Los nombres provisionales pueden reemplazarse sin editar componentes.
+- Cada producto puede generar su mensaje de consulta correspondiente.
+- WhatsApp permanece pendiente hasta confirmar el número.
+- No existen datos comerciales inventados.
+- El sitio funciona correctamente en móvil y escritorio.
+- No existe overflow horizontal.
+- La navegación móvil es usable.
+- La demo está identificada discretamente como propuesta.
+- Está configurada como no indexable.
+- No se incorporaron funcionalidades fuera del alcance.
+- No quedaron datos o identidad de otro cliente.
+- Las comprobaciones disponibles de tipos, lint y build fueron ejecutadas
+  y sus resultados informados.
+
+## 10. Pendientes y decisiones
+
+### Fotografías reales
+Estado: Pendiente.
+Necesario: seleccionar fotografías del negocio para el hero y aproximadamente
+seis productos.
+
+Estado de la demo: usa temporalmente fotografías ilustrativas descargadas de
+Unsplash y servidas desde `public/images/`. No presentarlas como productos del
+negocio.
+
+### Nombres reales de productos
+Estado: Pendiente.
+Necesario: obtenerlos o identificarlos a partir del material del negocio.
+
+### WhatsApp
+Estado: Pendiente.
+Dato observado: 3573468650.
+Necesario: verificar que corresponda al negocio y confirmar formato internacional.
+
+### Diseño
+Estado: Pendiente.
+Decisión: seleccionar una referencia web concreta antes de completar DESIGN.md.
+
+### Logo
+Estado: Confirmado como recurso suministrado.
+Decisión: utilizar el archivo existente sin rediseñarlo.
+
+### Catálogo completo
+Estado: Fuera del alcance actual.
+La demo solamente necesita una selección representativa.
