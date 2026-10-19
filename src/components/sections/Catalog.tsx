@@ -18,7 +18,7 @@ export function Catalog() {
         const inquiryUrl = productInquiryUrl(product.name);
         return <article className="product" key={product.id}>
           <div className="product-image-wrap"><Image className="product-image" src={product.image} alt={product.alt} fill sizes="(max-width: 767px) 88vw, (max-width: 900px) 45vw, 30vw" /></div>
-          <div className="product-info"><div><p className="product-category">{product.category}</p><h3>{product.name}</h3><p className="product-description">{product.description}</p></div>{inquiryUrl ? <a className="product-link" href={inquiryUrl} target="_blank" rel="noopener noreferrer" aria-label={`Consultar por ${product.name} por WhatsApp`}>Consultar <span aria-hidden="true">↗</span></a> : <button className="product-link" type="button" disabled aria-label={`Consulta por ${product.name} pendiente de verificar`}>Consultar <span aria-hidden="true">↗</span></button>}</div>
+          <div className="product-info"><div><p className="product-category">{product.category}</p><h3>{product.name}</h3><p className="product-description">{product.description}</p></div>{inquiryUrl ? <a className="product-link" href={inquiryUrl} target="_blank" rel="noopener noreferrer" aria-label={`Consultar por ${product.name} por WhatsApp`}>Consultar</a> : <button className="product-link" type="button" disabled aria-label={`Consulta por ${product.name} pendiente de verificar`}>Consultar</button>}</div>
         </article>;
       })}</div>
       <p className="catalog-footnote">Fotografías ilustrativas de Unsplash; no corresponden al negocio.</p>

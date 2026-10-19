@@ -461,3 +461,20 @@ Estado:
 Propuesto.
 
 No agregar dependencias innecesarias para resolverla.
+Definí los botones y enlaces según la identidad visual de este proyecto.
+
+No uses por defecto texto subrayado con una flecha diagonal como
+solución para todas las acciones.
+
+Establecé tres niveles:
+- Acción principal: botón con suficiente presencia y contraste.
+- Acción secundaria: tratamiento más discreto, pero claramente interactivo.
+- Enlace de texto: para navegación o acciones de menor importancia.
+
+Elegí bordes, radios, colores, tamaños y estados de interacción
+que acompañen el diseño de esta marca. Usá iconos solo cuando
+aporten significado.
+
+Evitá subrayados debajo de los iconos y líneas separadas accidentales.
+Mantené coherencia dentro del sitio, sin copiar automáticamente
+el estilo de botones de otros proyectos.
